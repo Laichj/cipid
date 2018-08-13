@@ -1,0 +1,10 @@
+# dev
+server.port: 8081
+
+log:
+  path: log
+
+pagehelper:
+  autoDialect: true
+  closeConn: true
+
