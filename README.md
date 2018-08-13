@@ -1,2 +1,2 @@
-# cipid
+# cupid
 for Double Seventh Festival
